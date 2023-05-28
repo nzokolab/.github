@@ -6,7 +6,8 @@ Right now, open communities are building amazing software together, and there ar
 
 * [Explore featured projects](https://opensource.nzokolab.cg/projects/)
 * [Explore open source jobs at Nzokolab and OpenCode.cg](https://careers.nzokolab.cg/us/en/search-results?keywords=open%20source)
-* [Apply for NzokoCore credits for open source projects](https://opensource.nzokolab.cg/nzokocore)
+* [Apply for NzokoCore credits f
+* or open source projects](https://opensource.nzokolab.cg/nzokocore)
 
 Visit [opensource.nzokolab.cg](https://opensource.nzokolab.cg) to learn more!
 
