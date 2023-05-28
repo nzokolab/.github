@@ -1,12 +1,17 @@
-## Hi there 👋
+![Open Source at Nzokolab](https://github.com/nzokolab/.github/blob/main/images/open-at-nzokolab.png) 
 
-<!--
+## Get Involved
 
-**Here are some ideas to get you started:**
+Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [Explore featured projects](https://opensource.nzokolab.cg/projects/)
+* [Explore open source jobs at Nzokolab and OpenCode.cg](https://careers.nzokolab.cg/us/en/search-results?keywords=open%20source)
+* [Apply for NzokoCore credits for open source projects](https://opensource.nzokolab.cg/nzokocore)
+
+Visit [opensource.nzokolab.cg](https://opensource.nzokolab.cg) to learn more!
+
+Visit [opencode.cg](https://opencode.cg) to learn more about the opencode.cg project and the community behind it !
+
+----
+
+Nzokolab projects adopt the [Nzokolab Open Source Code of Conduct](https://opensource.nzokolab.cg/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.nzokolab.cg/codeofconduct/faq/).
