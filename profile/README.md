@@ -1,4 +1,4 @@
-![Open Source at Nzokolab]([https://github.com/nzokolab/.github/open-at-nzokolab.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fanimation-animated-gif-xTiTnxpQ3ghPiB2Hp6&psig=AOvVaw1Rd9mhjWU_toNEw3J7WW2_&ust=1685716564268000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCMD5ncmlov8CFQAAAAAdAAAAABAE) 
+![Open Source at Nzokolab]([https://github.com/nzokolab/.github/open-at-nzokolab.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fanimation-animated-gif-xTiTnxpQ3ghPiB2Hp6&psig=AOvVaw1Rd9mhjWU_toNEw3J7WW2_&ust=1685716564268000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCMD5ncmlov8CFQAAAAAdAAAAABAE)) 
 
 ## Get Involved
 
