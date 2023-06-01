@@ -1,4 +1,4 @@
-![Open Source at Nzokolab](https://github.com/nzokolab/.github/blob/main/images/open-at-nzokolab.png) 
+![Open Source at Nzokolab](https://github.com/nzokolab/.github/open-at-nzokolab.png) 
 
 ## Get Involved
 
